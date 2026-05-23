@@ -26,5 +26,3 @@ Usage
 Contributing
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-License
-Jaswanth A
